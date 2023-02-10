@@ -1,0 +1,9 @@
+```mermaid
+graph TD;
+    A[STEP 1: The class was Splitted into two team and each team created a Github repository at www.github.com]-->B;
+     B[STEP 2: A comprehensive README file with essential information was created using markdown]-->C;
+      C[STEP 3: Individuals in each group created a script that prints name, email, matriculation number, the programming language used, bioinformatics sub-speciality and slack username]-->D;
+       D[STEP 4: The team script was pushed to their collective GitHub repository]-->E;
+        E[STEP 5: A bash script that clones the git repository was included]-->F;
+         F[STEP 6: A CSV file from all the outputs of the team scripts was createdd]
+```
