@@ -15,11 +15,12 @@
 |   1    | Benaiah Wakuma Dawi | wakumabenaiah@gmail.com  | UG/17/MDHA/1004  |   GO          |                                     |
 |   2    | Samuel Basil John   | basilsamuel@gmail.com    | UG/17/MDHA/1014  |   PHP         |                                     |
 |   3    | Aliyu Tafida        | alimasideba@gmail.com    | UG/17/MDHA/1010  |   HTML        |                                     |
-|        |                     |                          |                  |               |                                     |
+
 # Workflow
 ![FLOWCHART](https://user-images.githubusercontent.com/120460943/218270888-34a9733f-565c-43dd-b40d-942cf3c20980.png)
 
 # NOTE
-* 
-* 
+## note
+### not
+
 
